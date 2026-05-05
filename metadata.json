@@ -1,0 +1,8 @@
+{
+  "name": "OIT Bible Software",
+  "description": "Listens for speech and detects Bible references running in the background. Features a Semi-Auto mode to propose verse suggestions.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
